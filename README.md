@@ -47,11 +47,49 @@ The three highest segments by total chip spends are Budget - Older Families (8.6
 
 Mainstream Young Singles/Couples and Retirees have the most customers. Mainstream Young Singles/Couples represent 11.1% of all chip customers, and Mainstream Retirees 8.9%. Their high total spend simply comes from having more people, not from higher spend per person. 
 
-Budget Older Familiers shows a different reason. Older Families purchase the most chips per customer, around 9-10 bags of chips, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count. 
+Mainstream Young and Mid-Aged Singles/Couples pay a higher price per unit compared to the Budget and Premium counterparts. Mainstream Young Singles/Couples has the highest average price of $4.07 per bag, and Mid-Aged has $4. This indicates their impulse purchase behavior - grabbing a preferred product rather than price affordability. 
 
-Mainstream young and mid-aged singles/couples pay a higher price per unit compared to the Budget and Premium counterparts (~$4 - $4.07). This indicates a purchase behavior - grabbing a preferred product rather than price affordability. 
+Budget Older Familiers shows a different reason. Older Families purchase the most chips per customer, around 8-9 bags of chips, and nearly 20,000 orders, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count, and their average price per bag ($3.75) is one of the lowest. 
 
-Budget 
+Mainstream retirees sit in the middle. They buy a reasonable number of bags (5.61 per customer), pay a fair price of $3.85, and place the second-highest number of orders (18.6K). 
+
+## Packet Size by Customer Segment 
+
+175g is the most popular packet size across every single segment. Older Singles/Couples lead with 26,042 units, followed by Older Families (23,806) and Retirees (23,556). 
+
+Very small packs (70g, 90g, 125g) have low performance across all groups — CrunchCo shoppers generally prefer mid-size bags over single-serve options.
+
+## Deep Dive - Mainstream Young Singles/Couples
+
+This group stands out as the best target for CrunchCo. They have a large customer base, they pay more per bag, and they shop on impulse. 
+
+The table shows an affinity score. A score above 1.0 means this group buys that brand more than the average shopper. Below 1.0 means they buy it less. 
+
+Mainstream Young Singles/Couples are 23% more likely to purchase Tyrrell's chips compared to the rest of the population, and 56% less likely to purchase Burger. 
+
+They lean towards a bigger bag (270g), which means they are buying chips for a social occasion - movie nights, having friends over. Twisties is the only brand offering their 270g preference, and this may reflect a higher likelihood of purchasing Twisties. 
+
+## Recommendation
+
+Mainstream Young Singles/Couples are 23% more likely to grab Tyrrels over Kettle and other brands. Putting these where young shoppers will see them. Moving Tyrrells and smaller packs of chips to end-of-aisle displays or near checkouts in stores will catch them at the moment they are most likely to make an impulse buy. 
+
+Older Families buy around 8 - 9 bags per visit. A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers. 
+
+The historical sales trend shows a 10-day spike before Christmas. The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period. 
+
+Burger, Sunsites, and a few other small brands have very low performance in sales. Before discontinuing them, try bundling them with popular brand products or running flash sales to clear stock. 
+
+CrunchCo has purchase history on over 72,000 customers. Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit. 
+
+
+
+
+
+
+
+
+
+
 
 
 
