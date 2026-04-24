@@ -5,81 +5,116 @@ The company collects data on its sales transactions and customer behavior that h
 
 Insights and recommendations are provided on the following key areas:
 
-Sales Trend - Evaluation of historical sales patterns over the period July 2018 - June 2019, focusing on Revenue, Transaction Volume, and Average Daily Order Volume.
+* **Sales Trend** - Evaluation of historical sales patterns over the period July 2018 - June 2019, focusing on Revenue, Transaction Volume, and Average Daily Order Volume.
 
-Product Performance - An analysis of CrunchCo's chip product line by brand, understanding their impact on total sales. 
+* **Product Performance** - An analysis of CrunchCo's chip product line by brand, understanding their impact on total sales. 
 
-Customer Segment Analysis - An assessment of how different lifestage and premium customers drive chip purchases, units bought, and price paid.
+* **Customer Segment Analysis** - An assessment of how different lifestage and premium customers drive chip purchases, units bought, and price paid.
 
-Target Segment Deep Dive - A focused look at the highest-opportunity customer segment. including brand affinities and pack size preferences.
+* **Target Segment Deep Dive** - A focused look at the highest-opportunity customer segment. including brand affinities and pack size preferences.
 
 ## Data Structure
 
-## Sale Trends
+## Executive Summary
 
-Monthly sales remained in the range of ~$138k to ~$144k for most of the year.
+### Sale Trends:
 
-December 2018 recorded the highest monthly sales of the year at ~$144,676, driven by Christmas shopping. 
+- Total revenue from July 2018 to June 2019 is **nearly $2M**, with **246,739 transactions** and an **average daily order value of $678**. 
 
-After the December peak, sales declined in January 2019 and reached the lowest point of the year in February 2019 at $130,036.
+- Monthly sales remained in the **~$138k to ~$144k** range for most of the year.
 
-Sales recovered steadily from March 2019 onward, climbing back towards the yearly average before slightly dropping toward June 2019.
+- December 2018 recorded the highest monthly sales of the year at **~$144,676 with 19,698 orders**, driven by **Christmas shopping**. 
 
-## Product Performance
+- After the December peak, sales **declined** in January 2019 and **reached the lowest point of the year in February 2019 at $130,036.**
 
-56% of the company's total revenue comes from four ship brands - Kettle, Doritos, Smiths, and Pringles. These brands also have peak performance in December and a decline in February. 
+- Sales recovered steadily from March 2019 onward, climbing back towards the yearly average before slightly dropping toward June 2019.
 
-Kettle is the dominant brand at $363.69K in total sales - over 70% higher than the second-placed Doritos ($210.69K). Kettle is also the only brand maintaining consistently high monthly sales throughout the entire year.
+<img width="1681" height="328" alt="image" src="https://github.com/user-attachments/assets/f1c00726-512c-45f3-a01e-84ee23785ad9" />
 
-Kettle leads in performance, with the highest Average Order Value (AOV) at $4.98 and an Average Daily Order Volume (ADOV) of 106 orders. This suggests strong overall sales, driven by its premium pricing and a higher quantity purchased per transaction. 
+### Product Performance:
 
-The three lowest performing brands are Burger ($6.4k), French ($7.39k), and Sunbites ($9.02k). They contribute less than 1% of total sales combined. 
+- **Kettle** leads across all months, maintaining strong and consistent sales. **Doritos, Smiths, and Pringles** follow as the next tier, and all four brands account for about **56% of the company's total revenue**. These brands also have peak performance in December and a decline in February.
 
-## Customer Segment Analysis
+- **Kettle** is the dominant brand at **$390.24K in total sales** - over **70% higher than the second-placed Doritos ($226.33K).**
+  
+- **Kettle** remains the leader in performance, with the **highest Average Selling Price (ASP) at $4.98 and an Average Daily Order Volume (ADOV) of 106 orders**. This suggests strong overall sales, driven by its premium pricing and a high quantity purchased per transaction. 
 
-Customers are segmented across two dimensions:
+- The three **lowest performing brands** are **Burger ($6.4k), French ($7.39k), and Sunbites ($9.02k)**. They contribute **less than 1% of total sales combined.**
 
-Lifestage: Young Singles/Couples, Midage Singles/Couples, Older Singles/Couples, Young Families, Older Families, New Families, Retirees
+<img width="1690" height="423" alt="image" src="https://github.com/user-attachments/assets/d8b8c3dd-7a42-4ebd-9e20-60bf56c6f944" />
 
-Premium Customer: Budget, Mainstream, Premium
+### Customer Segment Analysis:
 
-The three highest segments by total chip spends are Budget - Older Families (8.69%), Mainstream - Young Singles/Couples (8.18%), and Mainstream - Retirees (8.04%). These three groups alone make up over 25% of all chip revenue. 
+- Customers are segmented across two dimensions:
 
-Mainstream Young Singles/Couples and Retirees have the most customers. Mainstream Young Singles/Couples represent 11.1% of all chip customers, and Mainstream Retirees 8.9%. Their high total spend simply comes from having more people, not from higher spend per person. 
+** **Lifestage:** Young Singles/Couples, Midage Singles/Couples, Older Singles/Couples, Young Families, Older Families, New Families, Retirees
 
-Mainstream Young and Mid-Aged Singles/Couples pay a higher price per unit compared to the Budget and Premium counterparts. Mainstream Young Singles/Couples has the highest average price of $4.07 per bag, and Mid-Aged has $4. This indicates their impulse purchase behavior - grabbing a preferred product rather than price affordability. 
+** **Premium Customer:** Budget, Mainstream, Premium
 
-Budget Older Familiers shows a different reason. Older Families purchase the most chips per customer, around 8-9 bags of chips, and nearly 20,000 orders, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count, and their average price per bag ($3.75) is one of the lowest. 
+- The **three highest segments** by total chip spends are Budget - **Older Families (8.69%), Mainstream - Young Singles/Couples (8.18%), and Mainstream - Retirees (8.04%)**. These three groups alone make up over **25% of all chip revenue. **
 
-Mainstream retirees sit in the middle. They buy a reasonable number of bags (5.61 per customer), pay a fair price of $3.85, and place the second-highest number of orders (18.6K). 
+- Mainstream Young Singles/Couples and Retirees have the most customers. Mainstream Young Singles/Couples represent 11.1% of all chip customers, and Mainstream Retirees 8.9%. Their high total spend simply comes from having more people, not from higher spend per person. 
 
-## Packet Size by Customer Segment 
+- Mainstream Young and Mid-Aged Singles/Couples pay a higher price per unit compared to the Budget and Premium counterparts. Mainstream Young Singles/Couples has the highest average price of $4.07 per bag, and Mid-Aged has $4. This indicates their impulse purchase behavior - grabbing a preferred product rather than price affordability. 
 
-175g is the most popular packet size across every single segment. Older Singles/Couples lead with 26,042 units, followed by Older Families (23,806) and Retirees (23,556). 
+<img width="1691" height="440" alt="image" src="https://github.com/user-attachments/assets/ca14663a-ca5d-4b44-913e-db5393112ead" />
+<div>
+  <p>
+    
+  </p>
+</div>
 
-Very small packs (70g, 90g, 125g) have low performance across all groups — CrunchCo shoppers generally prefer mid-size bags over single-serve options.
+* Budget Older Familiers shows a different reason. Older Families purchase the most chips per customer, around 8-9 bags of chips, and nearly 20,000 orders, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count, and their average price per bag ($3.75) is one of the lowest. 
 
-## Deep Dive - Mainstream Young Singles/Couples
+<div>
+  <p>
+    
+  </p>
+</div> 
 
-This group stands out as the best target for CrunchCo. They have a large customer base, they pay more per bag, and they shop on impulse. 
+<p align = 'center'>
+  <img width="850" height="517" alt="image" src="https://github.com/user-attachments/assets/f4f1ecea-2cf9-4046-bf1d-c9b1f86ec8b2" />
+</p>
 
-The table shows an affinity score. A score above 1.0 means this group buys that brand more than the average shopper. Below 1.0 means they buy it less. 
+- Mainstream retirees sit in the middle. They buy a reasonable number of bags (5.61 per customer), pay a fair price of $3.85, and place the second-highest number of orders (18.6K). 
 
-Mainstream Young Singles/Couples are 23% more likely to purchase Tyrrell's chips compared to the rest of the population, and 56% less likely to purchase Burger. 
+#### Packet Size by Customer Segment:
 
-They lean towards a bigger bag (270g), which means they are buying chips for a social occasion - movie nights, having friends over. Twisties is the only brand offering their 270g preference, and this may reflect a higher likelihood of purchasing Twisties. 
+- 175g is the most popular packet size across every single segment. Older Singles/Couples lead with 26,042 units, followed by Older Families (23,806) and Retirees (23,556). 
+
+- Very small packs (70g, 90g, 125g) have low performance across all groups — CrunchCo shoppers generally prefer mid-size bags over single-serve options.
+<p align = 'center'>
+  <img width="837" height="507" alt="image" src="https://github.com/user-attachments/assets/ffbd33b7-227b-4401-a19c-ed07292b9f60" />
+</p>
+
+### Deep Dive - Mainstream Young Singles/Couples:
+
+- Mainstream Young Singles/Couples stands out as the best target for CrunchCo. They have a large customer base, they pay more per bag, and they shop on impulse. 
+
+- Two charts show an affinity score. A score above 1.0 means this group buys that brand more than the average shopper. Below 1.0 means they buy it less. 
+
+- Mainstream Young Singles/Couples are 23% more likely to purchase Tyrrell's chips compared to the rest of the population, and 56% less likely to purchase Burger. 
+
+- They prefer to buy a bigger bag (270g), which means they are buying chips for a social occasion - movie nights, having friends over. Twisties is the only brand offering their 270g preference, and this may reflect a higher likelihood of purchasing Twisties. 
+<p align = 'center'>
+  <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/03513964-0ed4-48f4-a593-5343139608f0" />
+</p>
+<p align = 'center'>
+  <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/3d50eb33-7d19-419f-9ede-846507e2c6d7" /> 
+</p>
 
 ## Recommendation
+- The historical sales trend shows a 10-day spike before Christmas. The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period.
+  
+- The company is heavily reliant on Kettle, which outperformed the bottom 10 brands combined. This represents a significant risk that the company may face. The company's revenue and customer loyalty can decline quickly due to negative publicity such as product defects, scandals, and competitive disruption. So, diversifying the product portfolio is crucial. Actively investing in the second tier, particularly Doritos, Smiths, and Pringles, which contribute 34% in total revenue, would allow balancing revenue without abandoning what already performs.
 
-Mainstream Young Singles/Couples are 23% more likely to grab Tyrrels over Kettle and other brands. Putting these where young shoppers will see them. Moving Tyrrells and smaller packs of chips to end-of-aisle displays or near checkouts in stores will catch them at the moment they are most likely to make an impulse buy. 
+- Burger, Sunsites, and a few other small brands have very low performance in sales. Before discontinuing them, try bundling them with popular brand products or running flash sales to clear stock. 
 
-Older Families buy around 8 - 9 bags per visit. A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers. 
+- Mainstream Young Singles/Couples are 23% more likely to grab Tyrrels and 27% to buy Twisties 270g, over Kettle and other brands. Putting these where young shoppers will see them. Moving Twisties 270g, Tyrrells with smaller packs of chips to end-of-aisle displays or near checkouts in stores will catch them at the moment they are most likely to make an impulse buy. 
 
-The historical sales trend shows a 10-day spike before Christmas. The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period. 
+- Older Families buy around 8 - 9 bags per visit. A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers. 
 
-Burger, Sunsites, and a few other small brands have very low performance in sales. Before discontinuing them, try bundling them with popular brand products or running flash sales to clear stock. 
-
-CrunchCo has purchase history on over 72,000 customers. Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit. 
+- CrunchCo has purchase history on over 72,000 customers. Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit. 
 
 
 
