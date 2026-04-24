@@ -13,6 +13,8 @@ Insights and recommendations are provided on the following key areas:
 
 * **Target Segment Deep Dive** - A focused look at the highest-opportunity customer segment. including brand affinities and pack size preferences.
 
+The Tableau Dashboard can be checked <a href="https://public.tableau.com/app/profile/tram.nguyen6514/viz/RetailsandStrategyAnalysis/SalesDashboard?publish=yes"> here </a>
+
 ## Data Structure
 
 ## Executive Summary
@@ -29,7 +31,7 @@ Insights and recommendations are provided on the following key areas:
 
 - Sales recovered steadily from March 2019 onward, climbing back towards the yearly average before slightly dropping toward June 2019.
 
-<img width="1681" height="328" alt="image" src="https://github.com/user-attachments/assets/f1c00726-512c-45f3-a01e-84ee23785ad9" />
+<img width="1685" height="301" alt="image" src="https://github.com/user-attachments/assets/c7b4c115-00ae-4493-aff8-9ce88d1fd95d" />
 
 ### Product Performance:
 
@@ -53,9 +55,9 @@ Insights and recommendations are provided on the following key areas:
 
 - The **three highest segments** by total chip spends are Budget - **Older Families (8.69%), Mainstream - Young Singles/Couples (8.18%), and Mainstream - Retirees (8.04%)**. These three groups alone make up over **25% of all chip revenue. **
 
-- Mainstream Young Singles/Couples and Retirees have the most customers. Mainstream Young Singles/Couples represent 11.1% of all chip customers, and Mainstream Retirees 8.9%. Their high total spend simply comes from having more people, not from higher spend per person. 
+- **Mainstream Young Singles/Couples and Retirees** have the most customers. Mainstream Young Singles/Couples represent **11.1% of all chip customers**, and Mainstream Retirees **8.9%**. Their high total spend simply comes from **having more people**, **not from higher spend per person.** 
 
-- Mainstream Young and Mid-Aged Singles/Couples pay a higher price per unit compared to the Budget and Premium counterparts. Mainstream Young Singles/Couples has the highest average price of $4.07 per bag, and Mid-Aged has $4. This indicates their impulse purchase behavior - grabbing a preferred product rather than price affordability. 
+- **Mainstream Young and Mid-Aged Singles/Couples** pay a **higher price** per unit compared to the Budget and Premium counterparts. **Mainstream Young Singles/Couples** has the **highest** average price of **$4.07 per bag**, and **Mid-Aged** has ** $4**. This indicates their impulse purchase behavior - grabbing a preferred product rather than price affordability. 
 
 <img width="1691" height="440" alt="image" src="https://github.com/user-attachments/assets/ca14663a-ca5d-4b44-913e-db5393112ead" />
 <div>
@@ -64,7 +66,7 @@ Insights and recommendations are provided on the following key areas:
   </p>
 </div>
 
-* Budget Older Familiers shows a different reason. Older Families purchase the most chips per customer, around 8-9 bags of chips, and nearly 20,000 orders, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count, and their average price per bag ($3.75) is one of the lowest. 
+* **Budget Older Familiers** shows a different reason. **Older Families** purchase the most chips per customer, **around 8-9 bags of chips**, and nearly **20,000 orders**, more than any other group. This explains why the Budget Older Families have high total spend, even though they are not the biggest group by customer count, and their average price per bag **($3.75)** is one of the lowest. 
 
 <div>
   <p>
@@ -80,22 +82,23 @@ Insights and recommendations are provided on the following key areas:
 
 #### Packet Size by Customer Segment:
 
-- 175g is the most popular packet size across every single segment. Older Singles/Couples lead with 26,042 units, followed by Older Families (23,806) and Retirees (23,556). 
+- **175g** is the **most popular packet size** across every single segment. Older Singles/Couples lead with **26,042 units**, followed by **Older Families (23,806) and Retirees (23,556)**. 
 
 - Very small packs (70g, 90g, 125g) have low performance across all groups — CrunchCo shoppers generally prefer mid-size bags over single-serve options.
+  
 <p align = 'center'>
   <img width="837" height="507" alt="image" src="https://github.com/user-attachments/assets/ffbd33b7-227b-4401-a19c-ed07292b9f60" />
 </p>
 
 ### Deep Dive - Mainstream Young Singles/Couples:
 
-- Mainstream Young Singles/Couples stands out as the best target for CrunchCo. They have a large customer base, they pay more per bag, and they shop on impulse. 
+- **Mainstream Young Singles/Couples** stands out as the best target for CrunchCo. They have a large customer base, they pay more per bag, and they shop on impulse. 
 
 - Two charts show an affinity score. A score above 1.0 means this group buys that brand more than the average shopper. Below 1.0 means they buy it less. 
 
-- Mainstream Young Singles/Couples are 23% more likely to purchase Tyrrell's chips compared to the rest of the population, and 56% less likely to purchase Burger. 
+- **Mainstream Young Singles/Couples** are **23% more likely to purchase Tyrrell's chips** compared to the rest of the population, and **56% less likely to purchase Burger**. 
 
-- They prefer to buy a bigger bag (270g), which means they are buying chips for a social occasion - movie nights, having friends over. Twisties is the only brand offering their 270g preference, and this may reflect a higher likelihood of purchasing Twisties. 
+- They prefer to buy a **bigger bag (270g)**, which means they are buying chips for a social occasion - movie nights, having friends over. **Twisties** is the only brand offering their **270g** preference, and this may reflect a higher likelihood of purchasing Twisties. 
 <p align = 'center'>
   <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/03513964-0ed4-48f4-a593-5343139608f0" />
 </p>
@@ -104,17 +107,17 @@ Insights and recommendations are provided on the following key areas:
 </p>
 
 ## Recommendation
-- The historical sales trend shows a 10-day spike before Christmas. The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period.
+- The historical sales trend shows a **10-day spike before Christmas**. **The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period.**
   
-- The company is heavily reliant on Kettle, which outperformed the bottom 10 brands combined. This represents a significant risk that the company may face. The company's revenue and customer loyalty can decline quickly due to negative publicity such as product defects, scandals, and competitive disruption. So, diversifying the product portfolio is crucial. Actively investing in the second tier, particularly Doritos, Smiths, and Pringles, which contribute 34% in total revenue, would allow balancing revenue without abandoning what already performs.
+- The company is heavily reliant on Kettle, which outperformed the bottom 10 brands combined. This represents a significant risk that the company may face. The company's revenue and customer loyalty can decline quickly due to negative publicity such as product defects, scandals, and competitive disruption. So, diversifying the product portfolio is crucial. **Actively investing in the second tier, particularly Doritos, Smiths, and Pringles, which contribute 34% in total revenue, would allow balancing revenue without abandoning what already performs.**
 
-- Burger, Sunsites, and a few other small brands have very low performance in sales. Before discontinuing them, try bundling them with popular brand products or running flash sales to clear stock. 
+- Burger, Sunsites, and a few other small brands have very low performance in sales. **Before discontinuing them, try bundling them with popular brand products or running flash sales to clear stock.**
 
-- Mainstream Young Singles/Couples are 23% more likely to grab Tyrrels and 27% to buy Twisties 270g, over Kettle and other brands. Putting these where young shoppers will see them. Moving Twisties 270g, Tyrrells with smaller packs of chips to end-of-aisle displays or near checkouts in stores will catch them at the moment they are most likely to make an impulse buy. 
+- Mainstream Young Singles/Couples are 23% more likely to grab Tyrrels and 27% to buy Twisties 270g, over Kettle and other brands. **Putting these where young shoppers will see them. Moving Twisties 270g, Tyrrells with smaller packs of chips to end-of-aisle displays or near checkouts in stores will catch them at the moment they are most likely to make an impulse buy.**
 
-- Older Families buy around 8 - 9 bags per visit. A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers. 
+- Older Families buy around 8 - 9 bags per visit. **A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers.**
 
-- CrunchCo has purchase history on over 72,000 customers. Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit. 
+- CrunchCo has purchase history on over 72,000 customers. **Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit.**
 
 
 
