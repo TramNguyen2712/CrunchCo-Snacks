@@ -17,6 +17,12 @@ The Tableau Dashboard can be checked <a href="https://public.tableau.com/app/pro
 
 ## Data Structure
 
+CrunchCo database includes two tables: orders and customers, with a total row count of 337,475.
+
+<img width="1028" height="536" alt="image" src="https://github.com/user-attachments/assets/426d1c99-4faa-47c5-9bfe-092d6ad3d6f7" />
+
+
+
 ## Executive Summary
 
 ### Sale Trends:
