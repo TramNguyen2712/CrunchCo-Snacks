@@ -113,7 +113,7 @@ CrunchCo database includes two tables: orders and customers, with a total row co
 </p>
 
 ## Recommendation
-- The historical sales trend shows a **10-day spike before Christmas**. **The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period.**
+- The historical sales trend shows a **spike on Christmas**. **The company should plan this for with festive multipacks, special displays, and loyalty card deals timed to that period.**
   
 - The company is heavily reliant on Kettle, which outperformed the bottom 10 brands combined. This represents a significant risk that the company may face. The company's revenue and customer loyalty can decline quickly due to negative publicity such as product defects, scandals, and competitive disruption. So, diversifying the product portfolio is crucial. **Actively investing in the second tier, particularly Doritos, Smiths, and Pringles, which contribute 34% in total revenue, would allow balancing revenue without abandoning what already performs.**
 
@@ -123,7 +123,7 @@ CrunchCo database includes two tables: orders and customers, with a total row co
 
 - Older Families buy around 8 - 9 bags per visit. **A simple deal like "buy 3, get 1 free" would make their big spend even bigger without needing to attract new customers.**
 
-- CrunchCo has purchase history on over 72,000 customers. **Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion. That is a low-cost way to bring people back more often and grow how much they spend each visit.**
+- CrunchCo has purchase history on over 72,000 customers. **Focus on sending personalized deals to targeted groups, such as alerting a Kettle-loving Retirees about a Kellte promotion.**
 
 
 
