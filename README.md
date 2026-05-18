@@ -1,4 +1,4 @@
-# CrunchCo-Snacks
+# CrunchCo-Snacks Sales Performance Analysis
 CrunchCo Snacks, founded in 2015, is an FMCG retailer selling a wide range of chip and snack products across 271 stores nationwide. 
 
 The company collects data on its sales transactions and customer behavior that has been underutilized. This project thoroughly analyses and synthesises the data to uncover insights that will improve CrunchCo's category performance and customer-targeting strategy. 
