@@ -49,7 +49,7 @@ CrunchCo database includes two tables: orders and customers, with a total row co
 
 - The three **lowest performing brands** are **Burger ($6.4k), French ($7.39k), and Sunbites ($9.02k)**. They contribute **less than 1% of total sales combined.**
 
-<img width="1690" height="423" alt="image" src="https://github.com/user-attachments/assets/d8b8c3dd-7a42-4ebd-9e20-60bf56c6f944" />
+<img width="2500" height="700" alt="image" src="https://github.com/user-attachments/assets/d8b8c3dd-7a42-4ebd-9e20-60bf56c6f944" />
 
 ### Customer Segment Analysis:
 
